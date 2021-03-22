@@ -8,6 +8,6 @@ In terms of programming there's merely two fields im not interested in:
 
 Besides those two everything else is varying degrees of interesting. From working on small devices like a raspberry pi or even smaller microcontrollers to writing desktop applications, each area has its own appeal.
 
-Outside of programming, like a typical german, I follow my hometown football (soccer) team Borussia Dortmund closely. In terms of sports I prefer going cycling or swimming rather than playing football. In terms of social activities I perfer a good BBQ or a (board) game / movie night with friends over participating in the usual nightlife.
+Outside of programming, like a typical german, I follow my hometown football (soccer) team Borussia Dortmund closely. In terms of sports I prefer going cycling or swimming rather than playing football. When it comes to social activities I perfer a good BBQ or a (board) game / movie night with friends over participating in the usual nightlife.
 
-How to reach me: As I avoid social media to the best of my ability, a mail at wronb.david@googlemail.com would be the easiest way to reach me.
+How to reach me: Since I avoid social media like the plague, a mail at wronb.david@googlemail.com is the easiest way to reach me.
