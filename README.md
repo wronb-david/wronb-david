@@ -1,4 +1,4 @@
-Hi, I’m David Wronberg (@wronb-david)
+Hi, I’m David Wronberg (@wronb-david) a Computer Science student from Dortmund, Germany.
 
 I have been programming - in some form - since highshool. Originally starting out with wrigint desktop applications VB and then looking into webdevelopment ((X)HTML, CSS, SVG, JS, PHP, SQL). When I started my CS degree at TU Dormund I went back to writing desktop applications in Java, since Java was the main language used for the initial courses at university. Whenever a course introduced another language (e.g Haskell for the functional programming course, C for the Operating Systems course) I took a closer look at those. As preparation for the Visual Computing course I started programming in C++. C++ is the primary languague I stuck with since, because it is a multifaceted language, that offers a very interesting mix: multi platform, ISO standard, long history, offering multiple paradigms to choose from, lots of great public resources.
 
